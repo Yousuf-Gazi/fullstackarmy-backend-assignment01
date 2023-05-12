@@ -1,0 +1,7 @@
+GET http://localhost:3000/random?start=1&end=10
+
+###
+GET http://localhost:3000/generate-person?properties=firstName,lastName,email
+
+###
+GET http://localhost:3000/analyze-string?input=Hello123!elias420()?
